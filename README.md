@@ -34,6 +34,8 @@ To choose the Investment option, enter "Investment" (without quotes) and press E
 After entering the details, you will be asked to select either simple or compound interest.
 
 - To choose simple interest, enter "simple" (without quotes) and press Enter.
+![Screenshot 2023-06-11 105231](https://github.com/serganzha/finalCapstone/assets/129215190/a61ad538-158e-46b9-9f85-89cd6a646d7b)
+
 - To choose compound interest, enter "compound" (without quotes) and press Enter.
 The program will display the calculated total amount once the interest has been applied.
 
