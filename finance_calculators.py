@@ -44,3 +44,5 @@ elif (investment_or_bond == "bond"):
     print("The ammount of money you will have to repay each month is " + "£", (repayment))
 else:
     print("Please choose one of the options to proceed")
+# Exit prompt
+exit_prompt = input("Press any key to exit the program.")
